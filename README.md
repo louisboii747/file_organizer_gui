@@ -68,5 +68,5 @@ This project is MIT licensed — free to use and share!
 
 ---
 
-Made with ❤️ by [Your Name]  
-Check out my other projects at [GitHub](https://github.com/your-username)
+Made with ❤️ by [Louis Hinchliffe]  
+Check out my other projects at [GitHub](https://github.com/louisboii747)
