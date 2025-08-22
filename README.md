@@ -69,4 +69,4 @@ This project is MIT licensed — free to use and share!
 ---
 
 Made with ❤️ by [Louis Hinchliffe]  
-Check out my other projects at [GitHub](https://github.com/louisboii747)
+Check out my other projects on my [GitHub](https://github.com/louisboii747)
